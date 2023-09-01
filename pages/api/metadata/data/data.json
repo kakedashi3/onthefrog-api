@@ -1,0 +1,29 @@
+{
+    "1": {
+      "tokenId": 1,
+      "name": "kakedashi",
+      "description": "This is NFT 1",
+      "image": "",
+      "external_url": "",
+      "attributes": [
+        {
+          "trait_type": "",
+          "value": ""
+        }
+      ]
+    },
+    "2": {
+        "tokenId": 2,
+        "name": "tony",
+        "description": "This is NFT 1",
+        "image": "",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "",
+            "value": ""
+          }
+        ]
+    }
+  }
+  
